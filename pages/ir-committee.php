@@ -90,7 +90,7 @@
                             </div>
                             <div class="particular-committee-description-float float">
                                 <p class="particular-committee-description-p">
-                                    Head of HR-committee – Moskovkina Maria
+                                    Head of IR-committee – Moskovkina Maria
                                 </p>
                                 <p class="particular-committee-description-p">
                                     E-mail: moskovkinamaria@gmail.com
