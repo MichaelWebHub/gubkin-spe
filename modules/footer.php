@@ -7,7 +7,7 @@
             <a href="#"> <i class="fa fa-twitter" aria-hidden="true"></i></a>
         </p>
         <div class="about-me">
-            <p class="author"> Designed and assembled by <br><a href="#"> Michael Kutateladze</a> </p>
+            <p class="author"> Designed and assembled by <br><a href="https://vk.com/michaeladze" target="_blank"> Michael Kutateladze</a> </p>
             <p class="about-me-email"> michael.kutateladze@yandex.ru</p>
         </div>
     </div>
