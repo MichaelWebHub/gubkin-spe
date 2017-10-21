@@ -1,0 +1,66 @@
+.particular-committee-wrapper {
+    margin-left: 18%;
+}
+
+.particular-committee-inside {
+    padding: 10px;
+    cursor: default;
+}
+
+.particular-committee-header {
+    text-align: left;
+    margin-left: 30px;
+}
+
+.particular-header-title {
+    font-size: 30px;
+    color: #333;
+}
+
+.particular-header-title-appear {
+    text-decoration: underline;
+    text-decoration-color: #00B1EF;
+}
+
+.particular-committee-description {
+    margin-left: 30px;
+    width: 90%;
+}
+
+.particular-committee-description-p {
+    text-align: justify;
+    margin-top: 20px;
+    line-height: 1.4;
+}
+
+.particular-committee-description-article {
+    margin-top: 40px;
+}
+
+.particular-committee-description-p img {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.particular-committee-description-float {
+    width: 70%;
+}
+
+.particular-committee-description-img {
+    width: 30%;
+    text-align: left;
+}
+
+.particular-committee-description-img img {
+    margin-top: 20px;
+    width: 90%;
+}
+
+.particular-committee-description-ul {
+    margin-top: 20px;
+}
+
+.particular-committee-description-li {
+    margin-top: 5px;
+}
