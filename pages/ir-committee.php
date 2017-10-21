@@ -86,7 +86,7 @@
                         <article class="particular-committee-description-article clearfix">
                             <h3 class="particular-committee-description-h"> Contacts </h3>
                             <div class="particular-committee-description-img float">
-                                <!--                                <img src="../img/Polina.jpg" alt="SPE - IR">-->
+                                <img src="../img/moskovkina.jpg" alt="SPE - IR">
                             </div>
                             <div class="particular-committee-description-float float">
                                 <p class="particular-committee-description-p">
