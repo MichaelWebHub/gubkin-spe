@@ -5,9 +5,8 @@ $(document).ready(function () {
     });
 
     $('.aside-menu-li').css({
-        'line-height': $('.aside-menu-li').height() + 'px'
+        'line-height': $('.aside-menu-li').height() + 'px',
     })
-
 })
 
 $(window).resize(function () {

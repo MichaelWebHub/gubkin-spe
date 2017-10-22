@@ -3,11 +3,16 @@
         src: "fonts/Helvetica.opt"
     }
     
+    @font-face {
+        font-family: Roboto;
+        src: "fonts/Roboto-Regular.opt"
+    }
+    
     * {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        font-family: Helvetica;
+        font-family: Roboto;
     }
     
     body {
