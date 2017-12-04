@@ -16,7 +16,7 @@
     }
     
     body {
-        min-width: 300px;
+        min-width: 650px;
         max-width: 2500px;
         margin: 0 auto;
         overflow-x: hidden;
@@ -79,7 +79,7 @@
     
     .aside-menu-li {
         height: 16%;
-        overflow: hidden;
+/*        overflow: hidden;*/
         line-height: 34px;
         padding-left: 20px;
         font-size: 18px;
@@ -375,6 +375,34 @@
     
     .mobile-menu-link {
         color: white;
+    }
+
+    .mobile-menu-committees {
+        position: absolute;
+        z-index: 9;
+        width: 100vw;
+        padding: 20px;
+        top: 100px;
+        left: 0;
+        background: #212121;
+    }
+
+    .mobile-menu-committees {
+        list-style-type: none;
+        text-align: center;
+    }
+
+    .mobile-menu-committee {
+        margin-bottom: 8px;
+    }
+
+    .mobile-menu-committee-link {
+        color: white;
+        transition: .3s;
+    }
+
+    .mobile-menu-committee-link:hover {
+        color: #00B1EF;
     }
     
     .mobile-footer {

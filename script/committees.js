@@ -18,3 +18,10 @@ function appear() {
     }, 200);
 
 }
+
+const mobile_dropdown = document.querySelector('.mobile-dropdown');
+const mobile_menu_dropdown = document.querySelector('.mobile-menu-committees');
+
+mobile_dropdown.addEventListener('click', function() {
+    mobile_menu_dropdown.classList.toggle('hide');
+})

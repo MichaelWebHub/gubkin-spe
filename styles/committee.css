@@ -64,3 +64,13 @@
 .particular-committee-description-li {
     margin-top: 5px;
 }
+
+@media screen and (max-width: 1000px) {
+    .particular-committee-wrapper {
+        margin-left: 0;
+    }
+
+    .particular-committee-description-p {
+        font-size: 0.95em;
+    }
+}

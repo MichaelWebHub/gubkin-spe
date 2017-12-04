@@ -10,8 +10,8 @@
                 <li class="aside-menu-li dropdown"><a href="#" class="aside-menu-link"> Committees </a></li>
                 <li class="aside-menu-li"><a href="partners.php" class="aside-menu-link"> Sponsors and Partners</a></li>
                 <li class="aside-menu-li"><a href="faq.php" class="aside-menu-link"> FAQ </a></li>
-                <li class="aside-menu-li"><a href="#" class="aside-menu-link"> Calendar</a></li>
-                <li class="aside-menu-li"><a href="http://www.oilandgashorizons.ru/" class="aside-menu-link" target="_blank"> Oil and Gas Horizons IX</a></li>
+                <li class="aside-menu-li"><a href="http://www.petrostage.org" target="_blank" class="aside-menu-link"> PetroStage</a></li>
+<!--                <li class="aside-menu-li"><a href="http://www.oilandgashorizons.ru/" class="aside-menu-link" target="_blank"> Oil and Gas Horizons IX</a></li>-->
             </ul>
         </nav>
         <footer class="hfooter">
@@ -39,11 +39,20 @@
         <ul class="mobile-menu-ul">
             <li class="mobile-menu-li"><a href="index.php" class="mobile-menu-link"> News </a>
             </li>
-            <li class="mobile-menu-li"><a href="#" class="mobile-menu-link"> Committees </a></li>
+            <li class="mobile-menu-li"><a href="#" class="mobile-menu-link mobile-dropdown"> Committees </a>
+            <ul class="mobile-menu-committees hide">
+                <li class="mobile-menu-committee"><a class="mobile-menu-committee-link" href="hr-committee.php"> Human Resources</a></li>
+                <li class="mobile-menu-committee"><a class="mobile-menu-committee-link" href="ir-committee.php"> International Relations </a></li>
+                <li class="mobile-menu-committee"><a class="mobile-menu-committee-link" href="it-committee.php"> Information Technology </a></li>
+                <li class="mobile-menu-committee"><a class="mobile-menu-committee-link" href="kd-committee.php"> Knowledge Development </a></li>
+                <li class="mobile-menu-committee"><a class="mobile-menu-committee-link" href="pr-committee.php"> Public Relations </a></li>
+                <li class="mobile-menu-committee"><a class="mobile-menu-committee-link" href="secretariat.php"> Secretariat </a></li>
+            </ul>
+            </li>
             <li class="mobile-menu-li"><a href="partners.php" class="mobile-menu-link"> Sponsors and Partners</a></li>
             <li class="mobile-menu-li"><a href="faq.php" class="mobile-menu-link"> FAQ </a></li>
-            <li class="mobile-menu-li"><a href="#" class="mobile-menu-link"> Calendar</a></li>
-            <li class="mobile-menu-li"><a href="http://www.oilandgashorizons.ru/" class="mobile-menu-link" target="_blank"> Oil and Gas Horizons IX</a></li>
+            <li class="mobile-menu-li"><a href="http://www.petrostage.org" target="_blank" class="mobile-menu-link"> PetroStage</a></li>
+<!--            <li class="mobile-menu-li"><a href="http://www.oilandgashorizons.ru/" class="mobile-menu-link" target="_blank"> Oil and Gas Horizons IX</a></li>-->
         </ul>
     </nav>
     <div class="small-mobile-menu">
@@ -59,8 +68,8 @@
     <li class="small-mobile-li"><a href="#" class="small-mobile-link"> Committees </a></li>
     <li class="small-mobile-li"><a href="partners.php" class="small-mobile-link"> Sponsors and Partners</a></li>
     <li class="small-mobile-li"><a href="faq.php" class="small-mobile-link"> FAQ </a></li>
-    <li class="small-mobile-li"><a href="#" class="small-mobile-link"> Calendar</a></li>
-    <li class="small-mobile-li"><a href="http://www.oilandgashorizons.ru/" class="small-mobile-link" target="_blank"> Oil and Gas Horizons IX</a></li>
+    <li class="small-mobile-li"><a href="http://www.petrostage.org" target="_blank" class="small-mobile-link"> PetroStage</a></li>
+<!--    <li class="small-mobile-li"><a href="http://www.oilandgashorizons.ru/" class="small-mobile-link" target="_blank"> Oil and Gas Horizons IX</a></li>-->
 </ul>
 <div class="committees-wrapper">
     <div class="committees-wrapper-inside">
