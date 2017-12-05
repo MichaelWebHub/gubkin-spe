@@ -37,7 +37,7 @@
                             </div>
                             <div class="particular-committee-description-float float">
                                 <p class="particular-committee-description-p">
-                                    Head of Secretariat – Artem Belobritskiy
+                                    Head of Secretariat – Maxim Belobritskiy
                                 </p>
                                 <p class="particular-committee-description-p">
                                     E-mail: belobritskiy.m@gmail.com

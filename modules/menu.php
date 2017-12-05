@@ -172,7 +172,7 @@
                 <div class="vline"></div>
                 <div class="committee-info">
                     <h3> <a href="secretariat.php"> Secretariat </a> </h3>
-                    <p class="committe-head"> Artem Belobritskiy </p>
+                    <p class="committe-head"> Maxim Belobritskiy </p>
                     <p class="committee-head-email"> belobritskiy.m@gmail.com </p>
                 </div>
             </div>
